@@ -1,0 +1,14 @@
+# Development configs
+.idea
+.fleet
+.vscode
+
+# Objects files
+*.o
+
+# Executables
+a.out
+unit_tests
+
+# Documentation
+out
